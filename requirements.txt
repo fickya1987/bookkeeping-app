@@ -1,7 +1,4 @@
-notebook
-ipywidgets
-tqdm
-python-dotenv
-openai
 streamlit
-rembg
+streamlit_option_menu
+pandas
+altair
